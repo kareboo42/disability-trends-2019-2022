@@ -42,6 +42,6 @@ Public health data interpretation
 Dashboard creation for analytical storytelling
 
 How to View
-1. Download the Excel file from the folder or repository.
+1. Link: https://1drv.ms/x/c/9763bb815c4e3a6a/ESc85jua86tIknjTdewemwIB3dQ6NWrLyQ4AVhZQHycHZw?e=b3yixe
 2. Open in Excel (Desktop recommended).
 3. Use the slicers to filter by year or state to explore the data interactively.
